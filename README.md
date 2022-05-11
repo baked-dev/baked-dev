@@ -1,6 +1,5 @@
-![baked](https://raw.githubusercontent.com/baked-dev/baked-dev/master/baked_dev.png)
-
 - 👋 Hi, I’m @baked-dev
-- 👀 I’m interested in scalable realtime systems and reverse engineering 
-- 🌱 I’m currently learning Elixir
-- 📫 baked#8293 on discord
+- baked#8293 on discord
+- Typescript + Solidity dev
+- Reverse engineer
+- Used to operate k8s clusters but switched most things to serverless
