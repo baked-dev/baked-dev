@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @baked-dev
-- baked#8293 on discord
-- Typescript + Solidity dev
-- Reverse engineer
-- Used to operate k8s clusters but switched most things to serverless
+Insert README here
